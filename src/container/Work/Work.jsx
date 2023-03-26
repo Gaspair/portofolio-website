@@ -41,7 +41,7 @@ function Work() {
         My creative <span>Portfolio</span> <br />
       </h2>
       <div className="app__work-filter">
-        {["UI/UX", "Web App", "Mobile App", "React JS", "ALL"].map(
+        {["UI/UX", "Web App", "HTML & CSS", "React JS", "ALL"].map(
           (item, index) => (
             <div
               key={index}
