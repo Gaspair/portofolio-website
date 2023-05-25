@@ -41,7 +41,7 @@ function Footer() {
 
   return (
     <>
-      <h2 className="head-text">Take a Coffee and Chat with me</h2>
+      <h2 className="head-text">Grab a Coffee and Let's chat </h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card">
@@ -52,8 +52,8 @@ function Footer() {
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="email" />
-          <a href="tel:07990513494" className="p-text">
-            07990513494
+          <a href="tel:+40759801557" className="p-text">
+            +40759801557
           </a>
         </div>
       </div>

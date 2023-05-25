@@ -21,7 +21,7 @@ function About() {
   return (
     <>
       <h2 className="head-text">
-        I Know That <span>Good Design</span> <br /> means
+        I Know That <span>Clean Code</span> <br /> means
         <span> Good Business</span>
       </h2>
 
